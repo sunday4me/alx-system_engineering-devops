@@ -1,47 +1,27 @@
 # usage
-
-File 0-current_working_directory prints the current working directory.
-
-File 100-lets_move creates a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
-
-File 101-clean_emacs creates a script that deletes all files in the current working directory that end with the character ~.
-
-File 102-tree creates a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
-
-File 103-commas writes a command that lists all the files and directories of the current directory, separated by commas (,).
-
-File 10-back writes a script that changes the working directory to the previous one.
-
-File 11-lists writes a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
-
-File 12-file_type writes a script that prints the type of the file named iamafile. 
-
-File 13-symbolic_link creates a symbolic link to /bin/ls, named __ls__. 
-
-File 14-copy_html creates a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
-
-
-File 1-listit displays the contents list of the current directory.
-
-File 2-bring_me_home changes the working directory to the user’s home directory.
-
-File 3-listfiles displays current directory contents in a long format.
-
-File 4-listmorefiles displays current directory contents, including hidden files (starting with .).
-
-File 5-listfilesdigitonly displays current directory contents in long format, with user and group IDs displayed numerically and hidden files.
-
-File 6-firstdirectory creates a script that creates a directory named holberton in the /tmp/ directory.
-
-File 7-movethatfile moves the file betty from /tmp/ to /tmp/schhol.
-
-File 8-firstdelete deletes he file betty.
-
-File 9-firstdirdeletion deletes the directory holberton that is in the /tmp directory.
-
-fake_school0 :       the fake School 0
-fake_school1:        the fake School 1      
-file_school0:        the real School 0
-file_school1:        the real School 1
-file_test0:          the testing file 0
-school.mgc:          the magic file
+0-current_working_directory: text/plain
+100-lets_move:               text/plain
+101-clean_emacs:             text/plain
+102-tree:                    text/plain
+103-commas:                  text/plain
+10-back:                     text/plain
+11-lists:                    text/plain
+12-file_type:                text/plain
+13-symbolic_link:            text/plain
+14-copy_html:                text/plain
+1-listit:                    text/plain
+2-bring_me_home:             text/plain
+3-listfiles:                 text/plain
+4-listmorefiles:             text/plain
+5-listfilesdigitonly:        text/plain
+6-firstdirectory:            text/plain
+7-movethatfile:              text/plain
+8-firstdelete:               text/plain
+9-firstdirdeletion:          text/plain
+fake_school0:                text/plain
+fake_school1:                text/plain
+file_school0:                School
+file_school1:                School
+file_test0:                  inode/x-empty
+h_school.mgc:                application/octet-stream
+README.md:     ...
