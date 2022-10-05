@@ -58,7 +58,10 @@ tail -5 access.log
 
 ### Question 6 -  Create an empty file named take-the-command-challenge in the current working directory.
 
-Command:  
+Command: [touch](https://linux.die.net/man/1/touch)
+
+Description: Update the access and modification times of each FILE to the current time. A FILE argument that does not exist is created empty, unless -c or -h is supplied. A FILE argument string of - is handled specially and causes touch to change the times of the file associated with standard output
+
 ```
 touch take-the-command-challenge
 ```
@@ -68,7 +71,9 @@ Create a directory named tmp/files in the current working directory
 
 Hint: The directory "tmp/" doesn't exist, with one command you need to create both "tmp/" and "tmp/files"
 
-Command:  
+Description:
+
+Command: [mkdir](https://linux.die.net/man/1/mkdir)
 
 ```
 mkdir -p tmp/files
@@ -77,27 +82,34 @@ mkdir -p tmp/files
 ### Question 8
 Copy the file named take-the-command-challenge to the directory tmp/files
 
-
-Command:  
-
-```
-mkdir -p tmp/files
-```
-
-
-### Question 9
-Copy the file named take-the-command-challenge to the directory tmp/files
-
-Command:  
+ Description: Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+ 
+ Command: [touch](https://linux.die.net/man/1/cp)
 
 ```
 cp take-the-command-challenge tmp/files
 ```
 
 
+### Question 9
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Description:
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+
 
 ### Question 10
-Move the file named take-the-command-challenge to the directory tmp/files
+A symbolic link is a type of file that is a reference to another file.
+Create a symbolic link named take-the-command-challenge that points to the file tmp/files/take-the-command-challenge.
+
+Description:
+
 
 Command:  
 
@@ -107,6 +119,8 @@ mv take-the-command-challenge tmp/files
 
 ### Question 11
 Move the file named take-the-command-challenge to the directory tmp/files
+
+Description:
 
 Command:  
 
