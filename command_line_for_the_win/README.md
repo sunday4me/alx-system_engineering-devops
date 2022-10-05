@@ -96,6 +96,92 @@ cp take-the-command-challenge tmp/files
 
 
 
+### Question 10
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+### Question 11
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+### Question 12
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+### Question 13
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+### Question 14
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+### Question 15
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+
+### Question 16
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+### Question 17
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+### Question 18
+Move the file named take-the-command-challenge to the directory tmp/files
+
+Command:  
+
+```
+mv take-the-command-challenge tmp/files
+```
+
+
+
+
+
 
 
 
